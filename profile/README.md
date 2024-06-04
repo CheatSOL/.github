@@ -21,7 +21,7 @@
     <td align="center" style="border-right : 0.5px solid gray"><a href="https://github.com/JaeIn1"><img src="https://avatars.githubusercontent.com/JaeIn1" width="130px;" alt=""></td>
     <td align="center"><a href="https://github.com/ShinHeeEul"><img src="https://avatars.githubusercontent.com/ShinHeeEul" width="130px;" alt=""></td>
     <td align="center" style="border-right : 0.5px solid gray"><a href="https://github.com/colde99"><img src="https://avatars.githubusercontent.com/colde99" width="130px;" alt=""></td>
-    <td align="center"><a href="https://github.com/ShinHeeEul"><img src="https://avatars.githubusercontent.com/donginLee" width="130px;" alt=""></td>
+    <td align="center"><a href="https://github.com/donginLee"><img src="https://avatars.githubusercontent.com/donginLee" width="130px;" alt=""></td>
 
   </tr>
   <tr>
@@ -29,7 +29,7 @@
     <td align="center"style="border-right : 0.5px solid gray"><a href="https://github.com/JaeIn1" ><b>이재인</b></td>
     <td align="center"><a href="https://github.com/ShinHeeEul"><b>신희을</b></td>
     <td align="center"style="border-right : 0.5px solid gray"><a href="https://github.com/colde99" ><b>박찬란</b></td>
-    <td align="center"><a href="https://github.com/donginLee"><b>신희을</b></td>
+    <td align="center"><a href="https://github.com/donginLee"><b>이동인</b></td>
   </tr>
 
   <tr>
