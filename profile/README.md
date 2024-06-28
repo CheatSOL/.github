@@ -10,7 +10,8 @@
 
 
 ## ✨ 사이트
-<br />
+
+[cheatSOL 바로가기](https://cheatSOL.site)
 
 ## 👑 프로젝트 목표
 
@@ -36,7 +37,20 @@
 ## ❤ 프로젝트 결과
 <br />
 
-<br />
+### 메인 화면
+![Main Screen](./main-screen.png)
+
+### 검색 결과 한 눈에 보기
+![Search Results Overview](./search-results-overview.png)
+
+### 소셜 분석
+![Social Analysis](./social-analysis.png)
+
+### 연관 주식
+![Related Stocks](./related-stocks.png)
+
+### 연관 키워드
+![Related Keywords](./related-keywords.png)
 
  # 👋🏻 참여 인원
 <table style="border: 0.5 solid gray">
