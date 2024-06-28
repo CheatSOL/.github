@@ -42,33 +42,36 @@
 ---
 
 # 🛠기술 스택
+## 프론트엔드
+![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![StyledComponents](https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![ReactRouter](https://img.shields.io/badge/reactrouter-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
+## 백엔드
+![Express.js](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/nodedotjs-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![postgresql](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![sequelize](https://img.shields.io/badge/sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+
+## AI
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/jupyter-3776AB?style=for-the-badge&logo=jupyter&logoColor=white)
+
+## 인프라
+![AWS](https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=AmazonEC2&logoColor=white)
+![Github Action](https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![AWS Route53](https://img.shields.io/badge/amazonroute53-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+## 테스트 툴
+![Apache Jmeter](https://img.shields.io/badge/apachejmeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+
+## 협업
+![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Slack](https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 <br />
 
-# 🎨컨벤션
-## Git 컨벤션
-
-<br />
-
-```
-<컨벤션> : <변경 파일 명> - <설명>
-```
-
-| 컨벤션 | 설명 |
-|--------|------|
-| feat | 새로운 기능과 관련된 것을 의미한다.|
- | fix | 오류와 같은 것을 수정했을 때 사용한다.|
- | docs | 문서와 관련하여 수정한 부분이 있을 때 사용한다.|
- | style | 코드의 변화와 관련없는 포맷이나 세미콜론을 놓친 것과 같은 부분들을 의미한다.|
- | refactor | 코드의 리팩토링을 의미한다.|
- | test | test를 추가하거나 수정했을 때를 의미한다.|
- | chore | build와 관련된 부분, 패키지 매니저 설정 등 여러가지 production code와 무관한 부분 들을 의미한다. 말 그대로 자질구레한 일들이다.|
- | add | 이미지 등의 정적 자원 추가를 의미한다.|
- | init | 초기 설정 세팅을 의미한다.|
- | rename | 파일 혹은 폴더 명을 수정하거나 옮기는 작업을 의미한다.|
-
- [깃 컨벤션 참조](https://velog.io/@devholic/%EC%9A%B0%ED%85%8C%EC%BD%94-6%EA%B8%B0-%EB%8F%84%EC%A0%84%EA%B8%B0-%EC%BB%A4%EB%B0%8B-%EC%BB%A8%EB%B2%A4%EC%85%98-%EC%84%A4%EC%A0%95-Udacity-%EC%BB%A8%EB%B2%A4%EC%85%98-%EB%B2%88%EC%97%AD-%EB%B0%8F-%EC%A0%95%EB%A6%AC)
-
-<br />
-
-
-# ⛳ 그라운드 룰
+# 참조
+## [위키](https://github.com/CheatSOL/.github/wiki)
