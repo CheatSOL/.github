@@ -8,12 +8,17 @@
 - **상세 정보 제공**: 검색어와 관련된 다양한 세부 정보 제공
 - **연관 키워드 및 트래픽 분석**: 검색어와 연관된 키워드와 트래픽 데이터를 분석하고 시각화
 
+# 참조
+### 📄 [위키](https://github.com/CheatSOL/.github/wiki)
+### 💻 [시스템 아키텍처 / ERD / 기술스택](https://github.com/CheatSOL/.github/wiki/%E2%98%81%EF%B8%8F-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90-%EB%B0%8F-%EA%B8%B0%EC%88%A0-%EC%8A%A4%ED%83%9D)
+### 🎨 [피그마](https://www.figma.com/design/bxXq0CXANhQh2PATY3xJOA/Untitled?node-id=0-1&t=vrPnrNDQifKCIeEg-1)
+### 🍔 [API 명세](https://abounding-lasagna-fc5.notion.site/api-6c5910ea3abe47189673256bb8bf05b1?pvs=4)
 
-## ✨ 사이트
+# ✨ 사이트
 
 [cheatSOL 바로가기](http://cheatSOL.site)
 
-## 👑 프로젝트 목표
+# 👑 프로젝트 목표
 
 1. **다중 플랫폼 통합 검색어 분석**  
     - Google, YouTube, Naver, Instagram 등 다양한 소셜 미디어 및 검색 엔진에서 실시간으로 검색어 데이터를 수집하고 분석할 수 있는 시스템을 구축합니다.
@@ -34,7 +39,7 @@
     - 지속적인 데이터 업데이트와 기능 확장이 가능하도록 시스템 아키텍처를 설계합니다.
 
 
-## ❤ 프로젝트 결과
+# ❤ 프로젝트 결과
 <br />
 
 ### 메인페이지 및 검색
@@ -79,9 +84,6 @@
 </table>
 
 <br/>
-
----
-
 # 🛠기술 스택
 ## 프론트엔드
 ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)
@@ -113,10 +115,3 @@
 ![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 <br />
-
-
-# 참조
-### 📄 [위키](https://github.com/CheatSOL/.github/wiki)
-### 💻 [시스템 아키텍처 / ERD / 기술스택](https://github.com/CheatSOL/.github/wiki/%E2%98%81%EF%B8%8F-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90-%EB%B0%8F-%EA%B8%B0%EC%88%A0-%EC%8A%A4%ED%83%9D)
-### 🎨 [피그마](https://www.figma.com/design/bxXq0CXANhQh2PATY3xJOA/Untitled?node-id=0-1&t=vrPnrNDQifKCIeEg-1)
-### 🍔 [API 명세](https://abounding-lasagna-fc5.notion.site/api-6c5910ea3abe47189673256bb8bf05b1?pvs=4)
