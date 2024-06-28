@@ -37,20 +37,23 @@
 ## ❤ 프로젝트 결과
 <br />
 
-### 메인 화면
-![Main Screen](./main-screen.png)
+### 메인페이지 및 검색
+![메인페이지 및 검색](../cheatSOL-1.GIF)
 
-### 검색 결과 한 눈에 보기
-![Search Results Overview](./search-results-overview.png)
+### 다크모드
+![다크모드](../cheatSOL-2.GIF)
 
-### 소셜 분석
-![Social Analysis](./social-analysis.png)
+### 소셜분석
+![소셜분석](../cheatSOL-3.GIF)
 
-### 연관 주식
-![Related Stocks](./related-stocks.png)
+### 연관주식
+![연관주식](../cheatSOL-4.GIF)
 
-### 연관 키워드
-![Related Keywords](./related-keywords.png)
+### 연관주식 상세페이지
+![연관주식 상세페이지](../cheatSOL-5.GIF)
+
+### 연관키워드
+![연관키워드](../cheatSOL-6.GIF)
 
  # 👋🏻 참여 인원
 <table style="border: 0.5 solid gray">
