@@ -75,3 +75,5 @@
 
 # 참조
 ## [위키](https://github.com/CheatSOL/.github/wiki)
+## [시스템 아키텍처 / ERD / 기술스택](https://github.com/CheatSOL/.github/wiki/%E2%98%81%EF%B8%8F-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90-%EB%B0%8F-%EA%B8%B0%EC%88%A0-%EC%8A%A4%ED%83%9D)
+## [UI 디자인](https://www.figma.com/design/bxXq0CXANhQh2PATY3xJOA/Untitled?node-id=0-1&t=vrPnrNDQifKCIeEg-1)
