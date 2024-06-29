@@ -100,7 +100,7 @@
 
 ## AI
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/jupyter-3776AB?style=for-the-badge&logo=jupyter&logoColor=white)
+![Jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ## 인프라
 ![AWS](https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=AmazonEC2&logoColor=white)
