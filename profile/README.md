@@ -16,7 +16,7 @@
 
 # ✨ 사이트
 
-[cheatSOL 바로가기](http://cheatSOL.site)
+### [🪥cheatSOL 바로가기](http://cheatSOL.site)
 
 # 👑 프로젝트 목표
 
